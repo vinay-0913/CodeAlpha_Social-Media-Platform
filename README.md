@@ -2,14 +2,6 @@
 
 This is a social media app built using the MERN stack. It includes authentication, posts, likes, comments, and follows.
 
-## Screenshots
-
-### Home Page
-![Home Page](./images/home.png)
-
-### Profile Page
-![Profile Page](./images/singup.png)
-
 
 ## Features
 
